@@ -1,0 +1,1 @@
+java -cp "bin;lib/mysql-connector-java-8.0.25.jar" Main
